@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.dropbox.com/scl/fi/l8q95t31jcnqnf4qd265h/SRIJIT-MONDAL_CSIT_2025.pdf?rlkey=agkii1dhosnqs8294fgo56ryp&st=ir0isn7s&dl=0](https://www.dropbox.com/scl/fi/l8q95t31jcnqnf4qd265h/SRIJIT-MONDAL_CSIT_2025.pdf?rlkey=agkii1dhosnqs8294fgo56ryp&st=ir0isn7s&dl=0)
 
-- ⚡ Important Fact act **I'm an Engineer 🫡**
+- ⚡ Important Fact **I'm an Engineer 🫡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
