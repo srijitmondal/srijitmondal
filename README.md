@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Srijit Mondal</h1>
 <h3 align="center">A passionate Android & Web developer from India</h3>
 
-- 🔭 I’m currently working on **on a Web project**
+- 🔭 I’m currently working on **on a Web project**.
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter**.
 
 - 👨‍💻 All of my projects are available at [srijitmondal.netlify.app](srijitmondal.netlify.app)
 
-- 💬 Ask me about **java, HTML, JS etc**
+- 💬 Ask me about **java, HTML, JS etc.**
 
 - 📫 How to reach me **srijitmondal7@gmail.com**
 
