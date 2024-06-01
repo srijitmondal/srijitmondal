@@ -4,6 +4,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />, I'm Srijit</h1>
 <h3 align="center">A passionate Android & Web developer from India</h3>
 
+
 - 🔭 I’m currently working on **on a Web project**.
 
 - 🌱 I’m currently learning **Flutter**.
@@ -40,3 +41,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srijitmondal&" alt="srijitmondal" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srijitmondal&label=Profile%20views&color=0e75b6&style=flat" alt="isayanpal" /> </p>
