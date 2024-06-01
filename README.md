@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />, I'm Srijit Mondal</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />, I'm Srijit</h1>
 <h3 align="center">A passionate Android & Web developer from India</h3>
 
 - 🔭 I’m currently working on **on a Web project**.
