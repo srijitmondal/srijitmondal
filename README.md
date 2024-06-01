@@ -1,3 +1,6 @@
+![githu](https://i.postimg.cc/4NKhXKrP/1500x500.jpg)
+
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />, I'm Srijit</h1>
 <h3 align="center">A passionate Android & Web developer from India</h3>
 
