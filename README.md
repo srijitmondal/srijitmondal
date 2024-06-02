@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flutter**.
 
-- 👨‍💻 All of my projects are available at [Srijit's Profile Website](https://srijitmondal.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href="https://srijitmondal.netlify.app/" target="_blank">Srijit's Profile Website</a>
 
 - 💬 Ask me about **java, HTML, JS etc**.
 
