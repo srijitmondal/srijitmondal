@@ -25,7 +25,7 @@
 ## Achievements 🏆🎉
 - 3rd Prize Winner in Departmental Poster Competition under Dept. of CSE AIML.
 - 3rd Prize Winner in Departmental Project Competition under Dept. of CSIT.
-- Aquired AWS Fundamentals Spacalization, Microsoft Azure Cloud Services Introduction & Hands on IOT by University Of Illonois from Coursera
+- Acquired AWS Fundamentals Spacalization, Microsoft Azure Cloud Services Introduction & Hands on IOT by University Of Illonois from Coursera
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
