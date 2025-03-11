@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **srijitmondal7@gmail.com**
 
-- 📄 Know about my experiences [https://www.dropbox.com/scl/fi/l8q95t31jcnqnf4qd265h/SRIJIT-MONDAL_CSIT_2025.pdf?rlkey=agkii1dhosnqs8294fgo56ryp&st=ir0isn7s&dl=0](https://www.dropbox.com/scl/fi/ppm5qryhswc2agwlhmtvg/SRIJIT-MONDAL-CV.pdf?rlkey=niay6nqur5uwlpjmrl52k0izu&e=1&st=dgh2cmyp&dl=0)
+- 📄 Know about my experiences https://www.dropbox.com/scl/fi/9zj4ai6hreclu962pcdtt/Srijit-_Mondal-s_Resume.pdf?rlkey=hmijlz7l4yeeotxkur9scgbvj&st=lp0juz0u&dl=0
 
 - ⚡ Important Fact  **I'm an Engineer 🫡**.
 
