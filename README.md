@@ -8,7 +8,7 @@
 
 
 
-- 🔭 I’m currently working on **on a Web project**.
+- 🔭 I’m currently working on **on a React Native project**.
 
 - 🌱 I’m currently learning **Flutter**.
 
