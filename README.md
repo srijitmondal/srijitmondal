@@ -57,4 +57,4 @@
 ## 📊 GitHub Stats:
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srijitmondal&show_icons=true&locale=en&layout=compact" alt="srijitmondal" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=srijitmondal)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=srijitmondal&theme=cyber-streakglow&short_numbers=true)](https://git.io/streak-stats)
