@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://srijitmondal.netlify.app/" target="_blank">Srijit's Profile Website</a>
 
-- 💬 Ask me about **java, HTML, JS etc**.
+- 💬 Ask me about **java, SQL, HTML, JS etc**.
 
 - 📫 How to reach me **srijitmondal7@gmail.com**
 
