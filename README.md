@@ -23,9 +23,38 @@
 - ⚡ Important Fact  **I'm an Engineer 🫡**.
 
 ## Achievements 🏆🎉
-- 3rd Prize Winner in Departmental Poster Competition under Dept. of CSE AIML.
-- 3rd Prize Winner in Departmental Project Competition under Dept. of CSIT.
-- Acquired AWS Fundamentals Spacalization, Microsoft Azure Cloud Services Introduction & Hands on IOT by University Of Illonois from Coursera
+- 🎖️ Selected among top 500 candidates out of 5000+ applicants for **Hack4Bengal 4.0**
+- 🥉 3rd Prize Winner in Departmental Poster Competition under Dept. of CSE AIML  
+- 🥉 3rd Prize Winner in Departmental Project Competition under Dept. of CSIT  
+
+## 💼 Experience
+
+#### 🧑‍💻 Software Development Intern  
+**Geomaticx Scientific Technology Services Pvt. Ltd.**  
+📅 *March 1, 2025 – Present*  
+- Developed a mobile application using **React Native** for field attendance tracking with real-time geolocation and timestamped entries.  
+- Built dynamic UI components using **TypeScript** and **React Navigation** for seamless navigation across modules like attendance logging and historical data retrieval.  
+- **Tech Stack:** TypeScript, Java, PHP, SQL, React Native, XAMPP, WinSCP, MySQL Workbench, Android Studio, Python, ArcGIS, YOLOv8, Roboflow, GeoServer, Google Colab.
+
+#### 🤖 Generative AI & Data Science Intern  
+**IBM SkillsBuild**  
+📅 *Feb 19, 2024 – March 5, 2024*  
+- Created 20+ impactful presentations using **Google SlidesAI** to enhance engagement and clarity.  
+- Developed 50+ optimized AI prompts and analyzed employee datasets using **R**, improving accuracy by **35%** and generating insightful data visualizations.  
+- Collaborated with 5+ cross-functional teammates to align presentation content with project objectives.
+
+---
+
+## 🏆 Achievements
+
+- 🥉 3rd Prize Winner in Departmental Poster Competition under Dept. of CSE AIML  
+- 🥉 3rd Prize Winner in Departmental Project Competition under Dept. of CSIT  
+- 📜 Certified in:
+  - AWS Fundamentals Specialization
+  - Microsoft Azure Cloud Services Introduction
+  - Hands-on IoT by University of Illinois (Coursera)
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
